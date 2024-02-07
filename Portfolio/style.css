@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.pic{
+    height: 115px;
+    border-radius: 160px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.Name{
+    font-size: 25px;
+    font-family: Agbalumo;
+}
+
+
+
+.vertical{    
+    background-color: rgb(73, 188, 237);
+    width:122px;
+    height:850px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.pic{
+    margin-left:10px ;
+}
+
+
+.social-media{
+    display: flex;
+   
+}
